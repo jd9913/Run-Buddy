@@ -61,7 +61,7 @@ footer a{
     color: #024e76;
 }
 
-section{
+section {
     padding: 60px;
     
 }
@@ -85,4 +85,29 @@ section{
     position: absolute;
     bottom: 120px;
     right: 140px;
+}
+.hero-form h3 {
+    font-size: 24px;
+    margin: 0;
+}
+.hero-form p {
+    margin: 5px 0 15px 0;
+}
+.form-input{
+    font-size: 16px;
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.hero-form label{
+    margin: 0 5px;
+}
+button {
+    background: #024e76;
+    color: #fce138;
+    font-size: 18px;
+    padding: 15px;
 }
