@@ -254,8 +254,30 @@ button {
     flex: 1;
    
 }
-.trainer img{
+
+.trainer-1 {
+    background-image: url("../images/trainer-1.jpg");
+    
+}
+
+.trainer-2 {
+    background-image: url("../images/trainer-2.jpg");
+}
+
+.trainer-3 {
+    background-image: url("../images/trainer-3.jpg");
+}
+.trainer-img {
     width: 100%;
+    min-height: 300px;
+    display: flex;
+    padding: 15px;
+    align-items: flex-end;
+    background-size: cover;
+    background-position: center;
+    
+    
+  
     
 }
 
